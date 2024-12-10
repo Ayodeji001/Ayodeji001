@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ajani Adams Ayodeji
-- 👀 I’m interested in Coding (generally)
+- 👀 I’m interested in Data Science and Cybersecurity
 - 🌱 I’m currently learning Python for data analysis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Twitter:@ajani_adams_ayo, email: ajani.ayodeji001@gmail.com
+- 💞️ I’m looking to collaborate on gigs, jobs and projects in Data Analysis
+- 📫 How to reach me ... Twitter:@ayo_adams_ajani, email: ajani.ayodeji001@gmail.com
 
 <!---
 Ayodeji001/Ayodeji001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
