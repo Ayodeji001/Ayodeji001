@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajani Adams Ayodeji
-- 👀 I’m interested in Data Science and Cybersecurity
-- 🌱 I’m currently learning Python for data analysis
-- 💞️ I’m looking to collaborate on gigs, jobs and projects in Data Analysis
+- 👀 I’m interested in Web3 and Cybersecurity
+- 🌱 I’m currently solidity, with eyes on rust, foundry...
+- 💞️ I’m looking to build projects, develop smart contracts and audit smart contracts
 - 📫 How to reach me ... Twitter:@ayo_adams_ajani, email: ajani.ayodeji001@gmail.com
 
 <!---
