@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajani Adams Ayodeji
 - 👀 I’m interested in Web3 and Cybersecurity
-- 🌱 I’m currently solidity, with eyes on rust, foundry...
+- 🌱 I’m currently learning solidity, with eyes on rust, circom, foundry...
 - 💞️ I’m looking to build projects, develop smart contracts and audit smart contracts
 - 📫 How to reach me ... Twitter:@ayo_adams_ajani, email: ajani.ayodeji001@gmail.com
 
